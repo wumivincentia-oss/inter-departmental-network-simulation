@@ -65,6 +65,6 @@ Connectivity was fully validated using ICMP echo requests, proving the routing t
 ---
 
 ## 📂 How to Run This Lab
-1. Download the `vin project-inter-Departmental Enterprise Network Simulation` file from this repository.
+1. Download the `vin project-inter-Departmental Enterprise Network Simulation.pkt` file from this repository.
 2. Open the file using **Cisco Packet Tracer**.
 3. Hover over the router to view the port states or open the CLI to review the `show ip route` and `show ip int brief` outputs.
